@@ -1,0 +1,19 @@
+{
+  "name": "gameblock",
+  "version": "1.0.0",
+  "description": "selectable block",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cw6834/gameBlock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cw6834/gameBlock/issues"
+  },
+  "homepage": "https://github.com/cw6834/gameBlock#readme"
+}
